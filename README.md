@@ -5,19 +5,18 @@
 ![Tailwind](https://img.shields.io/badge/-SCSS-cd6799?style=for-the-badge&logo=SASS&logoColor=white)
 ![Coinbase](https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white)
 
-A demo application of developer-custodied server wallet payments tool using the new [CDP Wallet API v2](https://docs.cdp.coinbase.com/wallet-api-v2/docs/welcome). Users can sign in with their email (currently powered by Google or Github) and send funds to other emails. All emails are backed by Coinbase Server Wallets running on Base Sepolia.
+An application of developer-custodied server wallet payments tool using the new [CDP Wallet API v2](https://docs.cdp.coinbase.com/wallet-api-v2/docs/welcome). Users can sign in with their email (currently powered by Google or Github) and send funds to other emails. All emails are backed by Coinbase Server Wallets running on Base Sepolia.
 
 ## License
 
 The *CDP Mass Payments App* is free and open source and released under the [Apache License, Version 2.0](LICENSE).
 
-The application and code are only available for demonstration purposes.
 
 ## Acknowledgments
 
 This project leverages the [Gaslite Drop contract](https://github.com/PopPunkLLC/gaslite-core/blob/main/src/GasliteDrop.sol) from [Pop Punk LLC Gaslite](https://www.gaslite.org/) for mass transfers.
 
-Special thanks to [HeimLabs](https://www.heimlabs.com/) for foundational work on the original Paymaker [frontend](https://github.com/HeimLabs/coinbase-sdk-payout-frontend) and [backend](https://github.com/HeimLabs/coinbase-sdk-payout-backend) that informed this sample app.
+p.
 
 ## Prerequisites
 
